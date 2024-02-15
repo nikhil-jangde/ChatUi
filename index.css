@@ -27,8 +27,8 @@ body {
 
   .circular-progress {
     position: relative;
-    width: 75px; /* Adjust size as needed */
-    height: 75px; /* Adjust size as needed */
+    width: 65px; /* Adjust size as needed */
+    height: 65px; /* Adjust size as needed */
 }
 
 .circular-progress__svg {
